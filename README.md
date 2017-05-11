@@ -74,6 +74,6 @@ In order to add additional printed parts to the frame, i am using 10mm M5 Low pr
 #### NEMA17 Stepper Motor Dampener
 | Image                                              | Reference           | Part                      | Quantity | Notes |
 |:----------------------------------------------------:|:---------------------:|:---------------------------:|:----------:|:-------:|
-| ![NEMA17 Dampener Photo](http://imgur.com/R6uVBh8) | NEMA17 Dampener | [NEMA17 STEPPER MOTOR DAMPER](http://ooznest.co.uk/Stepper-Motor-Damper) | 2 or 4| Size: NEMA17  |
+| ![NEMA17 Dampener Photo](http://imgur.com/R6uVBh8.jpg) | NEMA17 Dampener | [NEMA17 STEPPER MOTOR DAMPER](http://ooznest.co.uk/Stepper-Motor-Damper) | 2 or 4| Size: NEMA17  |
 
 NEMA17 Stepper Motor Dampeners, reduce the vibration transmitted from the stepper motors into the frame. They have provided a huge difference in noise when connected to all of the axis. I have suggested '2 or 4' in the Quantity, because they are only really needed on the X and Y Axis which requires 2. You can put 2 on the Z axis but it will not make any difference during a normal print.
