@@ -4,15 +4,11 @@
 
 [teaser]: http://imgur.com/bSvs2ah.jpg "VCube Rendering in CATIA"
 
-credit: @Matt Ling
-
-## Thingiverse Page
-
 https://www.thingiverse.com/thing:2267810
 
-## Disclaimer
+## *Disclaimer
 
-**you do this modification at your own risk**
+**You Do This Modification At Your Own Risk**
 
 I am not responsible for any damages / injuries that might arise from the usage of all material, including but not limited to ideas, documentation, diagrams, that you get from this github.  All precautions and safety protection should be taken and only attempt it if you are experienced in this area.
 
@@ -20,7 +16,7 @@ I am not responsible for any damages / injuries that might arise from the usage 
 
 The name "VCube" is based on two factors. The 'V' Represents that the majority of the frame uses 20mmx40mm Black Anodised Aluminium Extrusions. The 'Cube' part of the name is because the frame resembles a cube. Simple.
 
-# Key Features:
+### Key Features:
 
 - Dramatically Increased Frame Strength
 - Reduced Noise From the Printer
