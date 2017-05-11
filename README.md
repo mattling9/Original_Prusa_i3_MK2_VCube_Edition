@@ -1,4 +1,4 @@
-# Original Prusa i3_MK2 VCube Edition
+# Original Prusa i3 MK2 VCube Edition
 
 ![Alternate Text for the Rendering of the VCube Edition.][teaser]
 
