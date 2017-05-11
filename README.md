@@ -3,7 +3,7 @@ This GitHub page is for the Original Prusa i3 MK2 VCube Edition.
 
 ![alt text][teaser]
 
-[teaser]: http://imgur.com/bSvs2ah "VCube Rendering in CATIA"
+[teaser]: http://imgur.com/a/NoBdq "VCube Rendering in CATIA"
 
 credit: @Matt Ling
 
